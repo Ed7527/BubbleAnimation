@@ -35,6 +35,7 @@
                 android:id="@+id/bubbleimageView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:alpha="0"
                 android:scaleX="0.05"
                 android:scaleY="0.05"
                 app:srcCompat="@drawable/bubble"
